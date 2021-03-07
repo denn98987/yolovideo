@@ -1,0 +1,6 @@
+train: /content/train/images/train
+val: /content/train/images/val
+
+nc: 1
+
+names: ['Pedestrian']

@@ -1,6 +1,6 @@
 train: /content/train/images/train
 val: /content/train/images/val
 
-nc: 13
+nc: 12
 
-names: ['Empty', 'Pedestrian', 'Person on vehicle', 'Car', 'Bicycle', 'Motorbike', 'Non motorized vehicle', 'Static person', 'Distractor', Occluder', 'Occluder on the ground', 'Occluder full', 'Reflection']
+names: ['Pedestrian', 'Person on vehicle', 'Car', 'Bicycle', 'Motorbike', 'Non motorized vehicle', 'Static person', 'Distractor', Occluder', 'Occluder on the ground', 'Occluder full', 'Reflection']
